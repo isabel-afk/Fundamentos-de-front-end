@@ -1,0 +1,56 @@
+/* Seleciona h1 e p */
+h1,
+p {
+    color: blue;
+}
+
+/* Seleciona a dentro de p */
+p a {
+    color: green;
+}
+
+.codigo {
+    color: blue;
+}
+
+.design {
+    color: red;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+h1 {
+    background: black;
+    color: white
+}
+
+a {
+    background: seagreen;
+    color: white;
+}
+
+h1 {
+    background-color: #8844ee;
+    color: #000000;
+}
+a {
+    background-color: #84e;
+    color: #fff;
+}
+
+.a1 {
+    color: ipha(0, 0, 0, 0.8); 
+}
+
+.a2 {
+    color: ipha(0, 0, 0, 0.6);
+}
+
+.a3 {
+    color: ipha(0, 0, 0, 0.4);
+}
+.design {
+    color: ipha(255, 0, 0, 1);
+}
